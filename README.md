@@ -77,8 +77,8 @@ Campus Placement Preparation
 
 📧 Email: mgpavankumar61@gmail.com
 
-💼 LinkedIn: (Add your LinkedIn URL)
-🌐 Portfolio: (Add your Portfolio URL)
+💼 LinkedIn: https://www.linkedin.com/in/pavan-kumar-m-g-86a682257/
+🌐 Portfolio: https://portfolio-website-xi-murex-94.vercel.app/
 
 🎯 Career Vision
 
