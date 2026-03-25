@@ -1,85 +1,24 @@
-👋 Hi, I'm Pavan Kumar M G
+# 💫 About Me:
+🚀 About Me<br><br>Hi, I’m Pavan Kumar M G 👋<br>A passionate Computer Science Engineer and aspiring Full Stack Developer with a strong interest in building real-world applications and solving problems through technology.<br><br>I enjoy working on projects that combine web development, databases, and intelligent systems, and I’m continuously exploring new technologies to improve my skills and create impactful solutions.<br><br>💻 What I Do<br>🌐 Build full-stack web applications<br>🧠 Work on problem-solving & DSA<br>📊 Develop database-driven systems<br>🤖 Explore AI-based features (like smart classroom systems)<br>🛠️ Tech Stack<br>Frontend: HTML, CSS, JavaScript<br>Backend: Node.js, Express.js<br>Database: MongoDB<br>Tools: Git, GitHub<br>📌 Projects<br>📚 Online Book Review Portal – Full-stack app with user interaction & database integration<br>🎓 EduBridge (Rural Education Platform) – Role-based learning system with materials & quizzes<br>🧠 Smart Classroom System – AI-powered notes & question generation<br>🌱 Currently Learning<br>Advanced Full Stack Development<br>AI Integration in Web Applications<br>System Design Basics<br>🎯 Career Goal<br><br>To become a skilled software developer and contribute to impactful tech solutions while continuously growing in the field of software engineering and AI-driven systems.<br><br>📫 Connect With Me<br>GitHub: https://github.com/Pavankumar0411mg
 
-Software Engineer | Backend Developer | System Design Enthusiast | Java • Python • SQL
 
-📍 India
-🕒 Open to Software Engineering Opportunities
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/pavan-kumar-m-g-86a682257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mgpavankumar61@gmail.com) 
 
-🚀 Professional Snapshot
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Arango DB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pavankumar0411mg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Pavankumar0411mg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankumar0411mg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-💻 Building scalable backend systems and data-driven applications
-📚 Strong foundation in Data Structures, OOP, and System Design
-🛠️ Focused on writing clean, maintainable, and performance-oriented code
-🎯 Aspiring to contribute to product-based engineering teams
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🌱 Currently Working On
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Pavankumar0411mg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Advanced System Design Concepts
+---
+[![](https://visitcount.itsvg.in/api?id=Pavankumar0411mg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Backend architecture & API development
-
-Scalable full-stack applications
-
-Optimization techniques in Smart Warehouse Systems
-
-👨‍💻 Projects
-📘 Online Book Review Portal
-
-Full-stack application integrating frontend with MongoDB for dynamic content management and user interaction.
-
-🏥 Smart Appointment Booking System
-
-Java-based modular scheduling system applying object-oriented design principles.
-
-🎓 EduBridge – Rural Education Platform
-
-Platform aimed at supporting 11th & 12th students with structured academic resources.
-
-🛠️ Technical Stack
-Programming
-
-Java • Python • SQL
-
-Web
-
-HTML • CSS • JavaScript
-
-Core CS
-
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-Operating Systems (Basics)
-System Design (Foundations)
-
-Tools
-
-Git • GitHub • VS Code
-
-📊 GitHub Stats
-Consistent learner | Project-focused | Growth-oriented developer
-
-(You can later add GitHub stats badges if you want a dynamic look.)
-
-💬 Ask Me About
-
-Backend Development
-
-Java & Python Projects
-
-Database Design
-
-Clean Code Practices
-
-Campus Placement Preparation
-
-📫 Connect With Me
-
-📧 Email: mgpavankumar61@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/pavan-kumar-m-g-86a682257/
-🌐 Portfolio: https://portfolio-website-xi-murex-94.vercel.app/
-
-🎯 Career Vision
-
-To build reliable, scalable software systems and grow into a strong backend engineer contributing to high-impact technology solutions.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
